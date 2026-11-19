@@ -1,1 +1,14 @@
- 
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "au.com.colinbellplumbing.backflow",
+      "sha256_cert_fingerprints": [
+        "E1:17:59:CE:A6:5E:49:AF:1A:B3:76:1F:7D:26:83:3E:67:52:9E:D6:D7:4A:16:89:49:66:AE:F6:84:F3:0C:64"
+      ]
+    }
+  }
+] 
